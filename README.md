@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FreddieFruitSticks. I am a software engineer at TwitchTV (as of this writing 2021) as a member of the video on demand team.
 - 👀 I’m interested in the fundamentals of almost anything. I enjoy working on a side project that will help me understand this complex world of software a little better.
-- 🌱 I’m currently learning how bitcoin, and blockchain technology in general, functions under the hood. 
-I am building my own blockchain, cryptocurrency and a mini blockchain explorer to better understand the fundamentals of the blockchain ecosystem. This is for interest and educational purposes only.
+- 🌱 I'm currently building projects to understand the nuances of distributed design principles.
 - 📫 How to reach me: freddieodonnell[at]gmail[dot]com
 
 <!---
